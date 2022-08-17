@@ -1,5 +1,6 @@
 body {
     background-color: rgb(253, 251, 251);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 #cabecalho {
@@ -32,6 +33,10 @@ body {
     position: relative;
     width: 450px;
     text-align: justify;
-    
+}
 
+#sobre_mim {
+    position: relative;
+    width: 450px;
+    text-align: justify;
 }
