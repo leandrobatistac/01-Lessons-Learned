@@ -1,12 +1,12 @@
 body {
     background-color: rgb(253, 251, 251);
-
 }
 
 #cabecalho {
     top: 0;
+    left: 0;
     background-color: green;
-    position: fixedgit;
+    position: fixed;
     margin: 0 auto;
     width: 100%;
 }
@@ -19,4 +19,12 @@ body {
 
 #licoes_aprendidas {
     padding: 20px;
+}
+
+#rodape {
+    background-color: lightgray;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
 }
