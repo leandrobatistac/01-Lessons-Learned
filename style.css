@@ -1,115 +1,115 @@
 body {
-    background-color: rgb(253, 251, 251);
-    font-size: 15px;
-    color: #282B28;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    line-height: 150%;
+  background-color: rgb(253, 251, 251);
+  font-size: 15px;
+  color: #282B28;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  line-height: 150%;
 }
 
 #cabecalho {
-    top: 0;
-    left: 0;
-    background-color: #83BCA9;
-    position: fixed;
-    width: 100%;
-    height: 40px;
+  top: 0;
+  left: 0;
+  background-color: #83bca9;
+  position: fixed;
+  width: 100%;
+  height: 40px;
 }
 
 #titulo {
-    display: block;
-    color: white;
-    text-align: center;
-    margin-top: 10px;
-    height: 40px;
-    width: 100%;
+  display: block;
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+  height: 40px;
+  width: 100%;
 }
 
 #rodape {
-    background-color: lightgray;
-    position: absolute;
-    width: 100%;
-    bottom: 0;
-    left: 0;
+  background-color: lightgray;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  left: 0;
 }
 
 #aprendizado {
-    width: 350px;
-    text-align: justify;
+  width: 350px;
+  text-align: justify;
 }
 
 #sobre_mim {
-    width: 350px;
-    text-align: justify;
+  width: 350px;
+  text-align: justify;
 }
 
 #subtitulo1, #subtitulo2, #subtitulo3, #subtitulo4, #subtitulo5 {
-    color: #83BCA9;
-    padding: 0;
+  color: #83BCA9;
+  padding: 0;
 }
 
 #navegacao {
-    display: inline-block;
-    position: relative;
-    top: 30px;
-    right: 200px;
+  display: inline-block;
+  position: relative;
+  top: 30px;
+  right: 200px;
 }
 
 #perfil {
-    position: absolute;
-    top: 50px;
-    left: 50px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
 }
 
 #minha_foto {
-    border: black solid 1px;
+  border: black solid 1px;
 }
 
-#lista1{
-    position: absolute;
-    margin: 0;
-    left: 400px;
-    top: 40px
+#lista1 {
+  position: absolute;
+  margin: 0;
+  left: 400px;
+  top: 40px
 }
 
 #lista2 {
-    position: absolute;
-    left: 800px;
-    top: 40px
+  position: absolute;
+  left: 800px;
+  top: 40px
 }
 
-.baixo{
-    position: absolute;
-    top: 360px;
+.baixo {
+  position: absolute;
+  top: 360px;
 }
 
-.lado-esquerdo{
-    left: 400px;
+.lado-esquerdo {
+  left: 400px;
 }
 
-.lado-direito{
-    left: 800px
+.lado-direito {
+  left: 800px
 }
 
 table {
-    border-collapse: collapse;
-    width: 12%;
+  border-collapse: collapse;
+  width: 12%;
 }
 
 th, td {
-    text-align: center;
-    padding: 1px;
+  text-align: center;
+  padding: 1px;
 }
 
 tr:nth-child(even){background-color: #f2f2f2}
 
 #tabela1 {
-    position: absolute;
-    top: 100px;
-    left: 1250px;
+  position: absolute;
+  top: 100px;
+  left: 1250px;
 }
 
 #subtitulo5 {
-    position: absolute;
-    left: 1250px;
-    top: 40px;
+  position: absolute;
+  left: 1250px;
+  top: 40px;
 }
