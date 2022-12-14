@@ -1,7 +1,7 @@
 body {
   background-color: rgb(253, 251, 251);
   font-size: 15px;
-  color: #282b28;
+  color: rgb(39, 42, 39);
   font-family: Gill Sans, Gill Sans MT, Calibri, Trebuchet MS, sans-serif;
   line-height: 150%;
 }
@@ -9,7 +9,7 @@ body {
 #cabecalho {
   top: 0;
   left: 0;
-  background-color: #83bca9;
+  background-color: rgb(131, 188, 169);
   position: fixed;
   width: 100%;
   height: 40px;
@@ -43,7 +43,7 @@ body {
 }
 
 #subtitulo1 , #subtitulo2 , #subtitulo3 , #subtitulo4 , #subtitulo5 {
-  color: #83bca9;
+  color: rgb(131, 188, 169);
   padding: 0;
 }
 
@@ -100,7 +100,7 @@ th , td {
   padding: 1px;
 }
 
-tr:nth-child(even) { background-color: #f2f2f2; }
+tr:nth-child( even ) { background-color: rgb(242, 242, 242); }
 
 #tabela1 {
   position: absolute;
