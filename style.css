@@ -42,7 +42,7 @@ body {
   text-align: justify;
 }
 
-#subtitulo1, #subtitulo2, #subtitulo3, #subtitulo4, #subtitulo5 {
+#subtitulo1 , #subtitulo2 , #subtitulo3 , #subtitulo4 , #subtitulo5 {
   color: #83bca9;
   padding: 0;
 }
@@ -95,12 +95,12 @@ table {
   width: 12%;
 }
 
-th, td {
+th , td {
   text-align: center;
   padding: 1px;
 }
 
-tr:nth-child(even) { background-color: #f2f2f2 };
+tr:nth-child(even) { background-color: #f2f2f2; }
 
 #tabela1 {
   position: absolute;
